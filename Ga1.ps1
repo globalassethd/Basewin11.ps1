@@ -1,1 +1,1 @@
--StartOSDCloud "-OSVersion 'Windows 11' -OSBuild 24H2 -OSEdition Pro -OSLanguage en-us -OSActivation Volume -ZTI -Restart"
+-StartOSDCloud -OSVersion 'Windows 11' -OSBuild 24H2 -OSEdition Pro -OSLanguage en-us -OSActivation Volume -ZTI -Restart
